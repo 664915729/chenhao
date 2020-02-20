@@ -8,8 +8,7 @@
       <p><b>地址：杭州市西湖区</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![图片描述](图片链接)
-![证件照](/zhengjianzhao.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">      %zhengjianzhao.jpg
     </td>
   </tr>
 </table>
