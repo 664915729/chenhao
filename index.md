@@ -7,9 +7,7 @@
       <p><b>邮箱：664915729@qq.com</b></p>
       <p><b>地址：杭州市西湖区</b></p>
     </td>
-    <td width="25%">
-     <img src="/zhengjianzhao.jpg" width="100%">     
-    </td>
+    
   </tr>
 </table>
 
